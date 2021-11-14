@@ -607,7 +607,7 @@ button.ui-button::-moz-focus-inner {
     height: 100%;
 }
 .ui-progressbar .ui-progressbar-overlay {
-    background: url("http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/animated-overlay.gif");
+    background: url("https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/animated-overlay.gif");
     height: 100%;
     filter: alpha(opacity=25);
     opacity: 0.25;
@@ -804,7 +804,7 @@ body .ui-tooltip {
 }
 .ui-widget-content {
     border: 1px solid #eee;
-    background: #fff url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_fff_40x100.png) 50% 50% repeat-x;
+    background: #fff url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_fff_40x100.png) 50% 50% repeat-x;
     color: #333333;
 }
 .ui-widget-content a {
@@ -812,7 +812,7 @@ body .ui-tooltip {
 }
 .ui-widget-header {
     border: 1px solid #333;
-    background: #333 url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_333_40x100.png) 50% 50% repeat-x;
+    background: #333 url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_333_40x100.png) 50% 50% repeat-x;
     color: #eee;
     font-weight: bold;
 }
@@ -875,7 +875,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-highlight,
 .ui-widget-header .ui-state-highlight {
     border: 1px solid #dfdfdf;
-    background: #e1e1e1 url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_55_e1e1e1_40x100.png) 50% 50% repeat-x;
+    background: #e1e1e1 url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_55_e1e1e1_40x100.png) 50% 50% repeat-x;
     color: #222;
 }
 .ui-state-highlight a,
@@ -887,7 +887,7 @@ body .ui-tooltip {
 .ui-widget-content .ui-state-error,
 .ui-widget-header .ui-state-error {
     border: 1px solid #D54E21;
-    background: #D54E21 url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_D54E21_40x100.png) 50% 50% repeat-x;
+    background: #D54E21 url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_D54E21_40x100.png) 50% 50% repeat-x;
     color: #eee;
 }
 .ui-state-error a,
@@ -933,27 +933,27 @@ body .ui-tooltip {
 }
 .ui-icon,
 .ui-widget-content .ui-icon {
-    background-image: url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_cccccc_256x240.png);
+    background-image: url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_cccccc_256x240.png);
 }
 .ui-widget-header .ui-icon {
-    background-image: url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_eee_256x240.png);
+    background-image: url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_eee_256x240.png);
 }
 .ui-state-default .ui-icon {
-    background-image: url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_999999_256x240.png);
+    background-image: url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_999999_256x240.png);
 }
 .ui-state-hover .ui-icon,
 .ui-state-focus .ui-icon {
-    background-image: url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_222_256x240.png);
+    background-image: url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_222_256x240.png);
 }
 .ui-state-active .ui-icon {
-    background-image: url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_222_256x240.png);
+    background-image: url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_222_256x240.png);
 }
 .ui-state-highlight .ui-icon {
-    background-image: url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_222_256x240.png);
+    background-image: url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_222_256x240.png);
 }
 .ui-state-error .ui-icon,
 .ui-state-error-text .ui-icon {
-    background-image: url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_eee_256x240.png);
+    background-image: url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-icons_eee_256x240.png);
 }
 
 /* positioning */
@@ -1166,14 +1166,14 @@ body .ui-tooltip {
 
 /* Overlays */
 .ui-widget-overlay {
-    background: #333 url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_333_40x100.png) 50% 50% repeat-x;
+    background: #333 url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_333_40x100.png) 50% 50% repeat-x;
     opacity: .3;
     filter: Alpha(Opacity=30);
 }
 .ui-widget-shadow {
     margin: -2px 0 0 -2px;
     padding: 2px;
-    background: #aaaaaa url(http://https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;
+    background: #aaaaaa url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/jquery-ui/images/ui-bg_flat_0_aaaaaa_40x100.png) 50% 50% repeat-x;
     opacity: .3;
     filter: Alpha(Opacity=30);
     border-radius: 2px;
