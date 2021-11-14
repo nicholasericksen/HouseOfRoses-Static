@@ -61,7 +61,7 @@
     outline: 0; /* prevent dotted border in Firefox */
 }
 .ui-tabs-nav .ui-tabs-selected{
-	background: #6D6D6D url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/admin/images/menu-bits.gif) repeat-x scroll left top;
+	background: #6D6D6D url(/static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/admin/images/menu-bits.gif) repeat-x scroll left top;
 	border-color: #6D6D6D;
 	color: #FFFFFF;
 	text-shadow:0 -1px 0 #666666;

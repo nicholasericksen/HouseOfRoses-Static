@@ -10,7 +10,7 @@
 <channel>
 	<title>Blog &#8211; House Of Roses</title>
 	<atom:link href="http://localhost/category/blog/feed/" rel="self" type="application/rss+xml" />
-	<link>https://nicholasericksen.github.io/HouseOfRoses-Static/</link>
+	<link>/static/</link>
 	<description></description>
 	<lastBuildDate>Fri, 10 Jul 2020 16:19:59 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,16 +21,16 @@
 	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
-	<url>https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/uploads/2020/06/cropped-cropped-Picture-768x742_web_icon-32x32.png</url>
+	<url>/static/wp-content/uploads/2020/06/cropped-cropped-Picture-768x742_web_icon-32x32.png</url>
 	<title>Blog &#8211; House Of Roses</title>
-	<link>https://nicholasericksen.github.io/HouseOfRoses-Static/</link>
+	<link>/static/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Patience</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/patience-2/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/patience-2/#respond</comments>
+		<link>/static/2020/07/10/patience-2/</link>
+					<comments>/static/2020/07/10/patience-2/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:19:59 +0000</pubDate>
@@ -142,15 +142,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="166" height="178"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/patience-2/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/patience-2/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Change</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/change/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/change/#respond</comments>
+		<link>/static/2020/07/10/change/</link>
+					<comments>/static/2020/07/10/change/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:19:11 +0000</pubDate>
@@ -218,15 +218,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="168" height="180"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/change/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/change/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Sacrifice</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/sacrifice/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/sacrifice/#respond</comments>
+		<link>/static/2020/07/10/sacrifice/</link>
+					<comments>/static/2020/07/10/sacrifice/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:18:23 +0000</pubDate>
@@ -294,15 +294,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="166" height="178"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/sacrifice/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/sacrifice/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Escape</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/escape/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/escape/#respond</comments>
+		<link>/static/2020/07/10/escape/</link>
+					<comments>/static/2020/07/10/escape/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:17:32 +0000</pubDate>
@@ -354,15 +354,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="180" height="193"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/escape/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/escape/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Failure</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/failure/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/failure/#respond</comments>
+		<link>/static/2020/07/10/failure/</link>
+					<comments>/static/2020/07/10/failure/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:16:37 +0000</pubDate>
@@ -371,7 +371,7 @@
 
 					<description><![CDATA[Any successful person who claims they never failed is a liar. Failure is essential to success. It’s unavoidable but luckily it’s the ultimate teacher. If understood correctly, it is the most important factor that makes ordinary people extraordinary. Failure is like electricity. If controlled properly [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="300" height="169" src="https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/uploads/2020/07/kkkkkkk.jpg" alt="Failure" class="wp-image-567"/><figcaption><em>This image was not created by House of Roses. For concerns about this photo please contact: Mr.RosesEmail@gmail.com</em></figcaption></figure></div>
+<div class="wp-block-image"><figure class="aligncenter size-large"><img loading="lazy" width="300" height="169" src="/static/wp-content/uploads/2020/07/kkkkkkk.jpg" alt="Failure" class="wp-image-567"/><figcaption><em>This image was not created by House of Roses. For concerns about this photo please contact: Mr.RosesEmail@gmail.com</em></figcaption></figure></div>
 
 
 
@@ -418,15 +418,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="182" height="195"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/failure/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/failure/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Organization</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/organization/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/organization/#respond</comments>
+		<link>/static/2020/07/10/organization/</link>
+					<comments>/static/2020/07/10/organization/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:15:01 +0000</pubDate>
@@ -498,15 +498,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="178" height="190"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/organization/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/organization/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Pressure</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/pressure/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/pressure/#respond</comments>
+		<link>/static/2020/07/10/pressure/</link>
+					<comments>/static/2020/07/10/pressure/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:13:57 +0000</pubDate>
@@ -630,15 +630,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="177" height="189"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/pressure/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/pressure/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Courage</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/courage/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/courage/#respond</comments>
+		<link>/static/2020/07/10/courage/</link>
+					<comments>/static/2020/07/10/courage/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:11:38 +0000</pubDate>
@@ -738,15 +738,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="175" height="187"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/courage/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/courage/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Mindset vs. Fear</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/mindset-vs-fear/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/mindset-vs-fear/#respond</comments>
+		<link>/static/2020/07/10/mindset-vs-fear/</link>
+					<comments>/static/2020/07/10/mindset-vs-fear/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:09:42 +0000</pubDate>
@@ -806,15 +806,15 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="166" height="178"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/mindset-vs-fear/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/mindset-vs-fear/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Stressed</title>
-		<link>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/stressed/</link>
-					<comments>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/stressed/#respond</comments>
+		<link>/static/2020/07/10/stressed/</link>
+					<comments>/static/2020/07/10/stressed/#respond</comments>
 		
 		<dc:creator><![CDATA[John Roseli]]></dc:creator>
 		<pubDate>Fri, 10 Jul 2020 16:08:25 +0000</pubDate>
@@ -918,7 +918,7 @@
 <div class="wp-block-image"><figure class="aligncenter is-resized"><img loading="lazy" src="https://houseofroses.org/wp-content/uploads/sites/14/2020/02/HouseofRoses_trademark_transparent-1.png" alt="" class="wp-image-904" width="183" height="196"/></figure></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://nicholasericksen.github.io/HouseOfRoses-Static/2020/07/10/stressed/feed/</wfw:commentRss>
+					<wfw:commentRss>/static/2020/07/10/stressed/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

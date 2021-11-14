@@ -10,8 +10,8 @@ Applies a shadow effect to gallery thumbnails and enables display of their descr
 /* ----------- Gallery style -------------*/
 
 .ngg-gallery-thumbnail {
-    background: url('https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/static/shadowAlpha.png') no-repeat bottom right !important;
-    background: url('https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/static/shadow.gif') no-repeat bottom right;
+    background: url('/static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/static/shadowAlpha.png') no-repeat bottom right !important;
+    background: url('/static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/ngglegacy/static/shadow.gif') no-repeat bottom right;
     margin: 10px 0 0 10px !important;
 }
 

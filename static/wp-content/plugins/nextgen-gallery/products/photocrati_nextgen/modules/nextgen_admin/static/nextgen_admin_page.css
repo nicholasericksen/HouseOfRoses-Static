@@ -85,7 +85,7 @@ table.nextgen_settings_position {
 #ngg_page_content span.tooltip,
 #ngg_page_content label.tooltip {
     outline: none;
-    background-image: url('https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/information.png');
+    background-image: url('/static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/information.png');
     background-repeat: no-repeat;
     padding-left: 22px;
     padding-bottom: 4px;
@@ -528,7 +528,7 @@ table.nextgen_settings_position {
 }
 
 #ngg_page_content .ngg_page_content_main select {
-    background-image: url(https://nicholasericksen.github.io/HouseOfRoses-Static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/dropdown_arrow.png);
+    background-image: url(/static/wp-content/plugins/nextgen-gallery/products/photocrati_nextgen/modules/nextgen_admin/static/dropdown_arrow.png);
     background-size: 10px 10px;
     background-repeat: no-repeat;
     background-position: 95% 55%;
