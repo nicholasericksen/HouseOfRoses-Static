@@ -1925,7 +1925,7 @@ body:not(.single) .blog-archive article:not(.has-post-thumbnail) .featured-image
 
 .posted-on:before {
     content: "";
-    background-image: url('/HouseOfRoses-Static/static/wp-content/themes/online-photography/assets/images/man-user.svg');
+    background-image: url('/wp-content/themes/online-photography/assets/images/man-user.svg');
     width: 14px;
     height: 14px;
     display: inline-block;
@@ -1939,7 +1939,7 @@ body:not(.single) .blog-archive article:not(.has-post-thumbnail) .featured-image
 }
 
 .posted-on:before {
-    background-image: url('/HouseOfRoses-Static/static/wp-content/themes/online-photography/assets/images/clock-circular-outline.svg');
+    background-image: url('/wp-content/themes/online-photography/assets/images/clock-circular-outline.svg');
 }
 
 .posted-on {
